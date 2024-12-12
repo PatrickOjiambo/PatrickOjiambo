@@ -12,9 +12,8 @@ I'm a passionate software developer with a keen interest in open-source contribu
 - **Version Control:** Git, GitHub
 
 ## Projects
-- **[Project 1](https://github.com/PatrickOjiambo/project1):** A brief description of what this project does and the technologies used.
-- **[Project 2](https://github.com/PatrickOjiambo/project2):** A brief description of what this project does and the technologies used.
-- **[Project 3](https://github.com/PatrickOjiambo/project3):** A brief description of what this project does and the technologies used.
+- **[Project 1](https://github.com/PatrickOjiambo/nine):** A decentralized payments protocol on Aptos
+
 
 ## Contact Me
 - **Email:** [patrick@example.com](mailto:patrick@example.com)
