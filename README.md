@@ -16,7 +16,7 @@ I'm a passionate software developer with a keen interest in open-source contribu
 
 
 ## Contact Me
-- **Email:** [patrick@example.com](mailto:patrick@example.com)
+- **Email:** [patrick@example.com](mailto:pashrick237@gmail.com)
 - **LinkedIn:** [Patrick Ojiambo](https://www.linkedin.com/in/patrickojiambo)
 
 ## GitHub Stats
