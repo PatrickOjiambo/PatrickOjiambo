@@ -27,6 +27,18 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Cards -->
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickOjiambo&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/PatrickOjiambo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOjiambo&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/PatrickOjiambo)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=PatrickOjiambo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Contribution Graph -->
+[![Patrick's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatrickOjiambo&theme=react-dark&hide_border=true&area=true)](https://github.com/PatrickOjiambo)
+
 ## 🚀 Highlight Projects
 
 ### [NSE Stock Tokenization Platform]
