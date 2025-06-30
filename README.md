@@ -40,11 +40,6 @@
 ### [Stablecoin Payment Gateway](https://github.com/poseidons-navy/nine)
 - Merchant-focused solution with developer-friendly APIs
 
-## 🏆 Achievements
-- 🥇 1st Place - Algorand Global Hackathon (2023)
-- 🥈 1st Runner-Up - NSE/Hedera Hackathon (2025)
-- 🥇 1st Place - UoN Algorand Hackathon (2024)
-
 ## 🔭 Current Focus
 - Building AI agents for Web3 applications
 - Exploring Zero-Knowledge proofs
