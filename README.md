@@ -4,7 +4,7 @@
 📍 Nairobi, Kenya | 📧 patrickojiambo206@gmail.com | 📞 +254742220881  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ojiambo-bb9272221/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/Patrick50083212)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/PatOjiambo)
 [![GitHub](https://img.shields.io/github/followers/PatrickOjiambo?label=Follow&style=social)](https://github.com/PatrickOjiambo)
 
 ## 🛠 Technical Stack
@@ -61,6 +61,5 @@
 I'm always open to:
 - Collaborating on interesting Web3/AI projects
 - Discussing blockchain architecture
-- Mentoring junior developers
 
 Reach me at: patrickojiambo206@gmail.com
